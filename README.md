@@ -20,24 +20,32 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Jedi do javaScript- Dicas e truques do lado front ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Podcast animado sobre javascript
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Chat gpt
+lexica
+eleverlab
+adobe express animation
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+depois de muita pesquisa sobre as inteligencias artificiais e com a ajuda dos mentores da Dio, consegui usar as ferramentas corretas
+e que trouxeram um resultado satisfatorio para mim.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+foi exelente
+link:
+https://podcasters.spotify.com/pod/dashboard/episode/e2kvu0d/details
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
+Ainda que a inteligencia artificial é engana muitas pessoas ela ainda possui certa limitaçoes.então algumas são muito fake natty
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
